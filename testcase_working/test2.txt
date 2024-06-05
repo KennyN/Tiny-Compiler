@@ -1,0 +1,9 @@
+var x, y;
+begin
+x := 10;
+y := 5;
+if x > y then
+    x := x - y;
+else
+    x := x + y;
+end.

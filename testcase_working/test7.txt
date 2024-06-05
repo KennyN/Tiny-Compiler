@@ -1,0 +1,18 @@
+var a, b;
+
+procedure add(a, b);
+begin
+    a := a + b;
+end;
+
+procedure subtract(a, b);
+begin
+    a := a - b;
+end;
+
+begin
+a := 10;
+b := 5;
+call add(a, b);
+call subtract(a, b);
+end.

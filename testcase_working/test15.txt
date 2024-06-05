@@ -1,0 +1,8 @@
+var x, y, z, result;
+begin
+x := 2;
+y := 3;
+z := 4;
+result := x + y;
+result := result * z;
+end.

@@ -1,0 +1,7 @@
+var a, b, c, d;
+begin
+a := 2;
+b := 3;
+c := 4;
+d := ((a + b) * c) / 2;
+end.

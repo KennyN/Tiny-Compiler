@@ -1,0 +1,13 @@
+var i, sum;
+begin
+i := 1;
+sum := 0;
+while i <= 10 do
+    begin
+    if i % 2 = 0 then
+        sum := sum + i;
+    else
+        sum := sum - i;
+    i := i + 1;
+    end;
+end.
