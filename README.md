@@ -1,9 +1,5 @@
 # Tiny-Compiler
 
-## Authors
-- **Kenny Nguyen**
-- **Jared Zayas**
-
 ## Overview
 This project is a simple compiler program designed to perform lexical analysis, parsing, and code generation for a specified programming language. The compiler processes an input source file, conducts the necessary analysis and generation steps, and produces a machine code output file.
 
